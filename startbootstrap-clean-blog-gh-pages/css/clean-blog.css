@@ -1,12 +1,12 @@
 /*!
- * Start Bootstrap - Clean Blog v3.3.7+1 (http://startbootstrap.com/template-overviews/clean-blog)
+ * Start Bootstrap -木兰传说  v3.3.7+1 (http://startbootstrap.com/template-overviews/clean-blog)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
-  color: #333333;
+  font-family: '仿宋', 'Times New Roman', serif;
+  font-size: 25px;
+  color: #264ae9;
 }
 p {
   line-height: 1.5;
@@ -40,7 +40,7 @@ blockquote {
   font-style: italic;
 }
 hr.small {
-  max-width: 100px;
+  max-width: 400px;
   margin: 15px auto;
   border-width: 4px;
   border-color: white;
